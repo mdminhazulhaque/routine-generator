@@ -1,0 +1,8 @@
+<school>
+ <teacher name="Rafsun" subject1="CPP" subject2="Java" subject3="C#"/>
+ <teacher name="Ujjal" subject1="Java" subject2="PHP" subject3="CPP"/>
+ <teacher name="Shawon" subject1="Java" subject2="OpenGL" subject3="CPP"/>
+ <teacher name="Asif" subject1="OpenGL" subject2="Python" subject3="CPP"/>
+ <teacher name="Naeem" subject1="C#" subject2="PHP" subject3="Python"/>
+ <teacher name="Shahed" subject1="C#" subject2="OpenGL" subject3="CPP"/>
+ </school>
